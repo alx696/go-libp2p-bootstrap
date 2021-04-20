@@ -1,6 +1,6 @@
 module github.com/alx696/go-libp2p-bootstrap
 
-go 1.15
+go 1.16
 
 require (
 	github.com/benbjohnson/clock v1.1.0 // indirect
